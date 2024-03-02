@@ -2,7 +2,8 @@
 body {
   font-family: 'Source Sans Pro', sans-serif;
   font-weight: 300;
-  background: linear-gradient(135deg, #0e7fef 0%, #00a7c9 44%, #00d3a2 100%), linear-gradient(45deg, #f20e6d 0%, rgba(242, 14, 109, 0.93) 7%, rgba(0, 211, 162, 0) 100%);
+  background: linear-gradient(135deg, #140138 0%, #00a7c9 44%, #140138 100%), linear-gradient(45deg, #f20e6d 0%, rgba(242, 14, 109, 0.93) 7%, rgba(0, 211, 162, 0) 100%);
+/* 1- #0e7fef 3- #00d3a2*/
 }
 h1, h2, h3, h4, h5, h6, p {
   font-family: inherit;
@@ -31,7 +32,7 @@ a:hover {
   /* position: absolute; */
   background-color: #fff;
   width: 100%;
-  height: 100%;
+  height: 84%;
   border: none;
   overflow: hidden;
 }
